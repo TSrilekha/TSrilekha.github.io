@@ -10,7 +10,7 @@ body
 #box
 {
     background: white;
-    margin:500px auto;
+    margin:100px auto;
     width:500px;
     padding:20px;
 }
@@ -33,5 +33,5 @@ h3 {
 #three
 {
     color:aqua;
-    background:pink;
+    background:yellow;
 }
