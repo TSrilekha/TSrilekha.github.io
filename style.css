@@ -35,3 +35,9 @@ h3 {
     color:aqua;
     background:red;
 }
+
+#image
+{
+    width:100px;
+    border:5px dotted #blue;
+}
