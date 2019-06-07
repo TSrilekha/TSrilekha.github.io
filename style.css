@@ -7,6 +7,13 @@ body
 {
     background: pink;
 }
+#box
+{
+    background: white;
+    margin:500px auto;
+    width:500px;
+    padding:20px;
+}
                         
 #first {
                 color:blueviolet;
